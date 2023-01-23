@@ -1,1 +1,7 @@
-
+Be productive i.e. code/work regularly for 30 Days straight.
+Update the work youv'e done daily on [logs.md](https://github.com/Anshojha/30Days_Of_Productivity/blob/main/logs.md) and [Twitter](https://twitter.com/AnshOjha12?t=rQG7rLqN8bpej3v8vrTJYQ&s=09)
+Have to work 6 days a week (Monday-Saturday)
+If you can't work on any 1 day of the week, compencate for it by working on sunday.
+Exception can be made on the 6 days a week work rule only in cases of exams.
+If for any reason the streak is broken (6 days a week can't be maintained) The progress count needs to be restarted.
+#30DaysOfProductivity hashtag must be present the tweets and @CodeChefSrmRmp must be tagged.
