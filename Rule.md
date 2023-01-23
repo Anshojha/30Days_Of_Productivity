@@ -8,5 +8,6 @@
 
 5. Exception can be made on the 6 days a week work rule only in cases of exams.
 
-6 .If for any reason the streak is broken (6 days a week can't be maintained) The progress count needs to be restarted.
+6. If for any reason the streak is broken (6 days a week can't be maintained) 
+7. The progress count needs to be restarted.
 #30DaysOfProductivity hashtag must be present the tweets and @CodeChefSrmRmp must be tagged.
