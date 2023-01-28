@@ -7,3 +7,5 @@ Today , I added footer to the [website](https://github.com/Anshojha/WebPage-3rd-
 Today is the 2nd of learning [React](https://github.com/Anshojha/React_Js/commit/07f78f95eba8b4eef15c9c98d978adae2a560578) 
 # Day 4
 Today, I learn aboout props components , styling in reactJs You can check [here](https://github.com/Anshojha/React_Js/commit/e10b297ac9d10c00abb10ac30241a5d944708c53)
+# Day 5
+Today I followed the React JS Course by [traverse](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4047s) . You can check [here](https://github.com/Anshojha/React_Js/commit/5f5434b61d9b8ed0f7cf88158d8f27d16e68fe80) my today's progress 
