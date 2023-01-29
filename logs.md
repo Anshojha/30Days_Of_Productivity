@@ -9,3 +9,5 @@ Today is the 2nd of learning [React](https://github.com/Anshojha/React_Js/commit
 Today, I learn aboout props components , styling in reactJs You can check [here](https://github.com/Anshojha/React_Js/commit/e10b297ac9d10c00abb10ac30241a5d944708c53)
 # Day 5
 Today I followed the React JS Course by [traverse](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4047s) . You can check [here](https://github.com/Anshojha/React_Js/commit/5f5434b61d9b8ed0f7cf88158d8f27d16e68fe80) my today's progress 
+# Day 6
+Today , I learnrd hoe to add a toggle button uisng react useState in my way to learning [React](https://github.com/Anshojha/React_Js/commit/00702e5b8b4acf857e3cb54851d2d65768781df8)
