@@ -11,3 +11,5 @@ Today, I learn aboout props components , styling in reactJs You can check [here]
 Today I followed the React JS Course by [traverse](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4047s) . You can check [here](https://github.com/Anshojha/React_Js/commit/5f5434b61d9b8ed0f7cf88158d8f27d16e68fe80) my today's progress 
 # Day 6
 Today , I learnrd how to add a toggle button uisng react useState in my way to learning [React](https://github.com/Anshojha/React_Js/commit/00702e5b8b4acf857e3cb54851d2d65768781df8)
+# Day 7
+Today , I code so that to maintain my streak for half and hour you can check [here](https://github.com/Anshojha/React_Js/commit/eae7241ba1cbc960b8410009a1d85111952bfc26) and attended the ProofOfCommuinity at SRM ktr meet up which is the best till now 
