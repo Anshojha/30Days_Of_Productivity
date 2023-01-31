@@ -13,3 +13,5 @@ Today I followed the React JS Course by [traverse](https://www.youtube.com/watch
 Today , I learnrd how to add a toggle button uisng react useState in my way to learning [React](https://github.com/Anshojha/React_Js/commit/00702e5b8b4acf857e3cb54851d2d65768781df8)
 # Day 7
 Today , I code so that to maintain my streak for half and hour you can check [here](https://github.com/Anshojha/React_Js/commit/eae7241ba1cbc960b8410009a1d85111952bfc26) and attended the ProofOfCommuinity at SRM ktr meet up which is the best till now 
+# Day 8 
+Today , I started following a 11 hours long coures on [youTube](https://www.youtube.com/watch?v=bMknfKXIFA8&t=1771s) my today's learning [here](https://github.com/Anshojha/React_Js/commit/7f9e929d8b75dfc4a8335499c3a0c7ae8dbb9dfc)
