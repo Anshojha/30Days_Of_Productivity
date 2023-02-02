@@ -17,3 +17,5 @@ Today , I code so that to maintain my streak for half and hour you can check [he
 Today , I started following a 11 hours long coures on [youTube](https://www.youtube.com/watch?v=bMknfKXIFA8&t=1771s) my today's learning [here](https://github.com/Anshojha/React_Js/commit/7f9e929d8b75dfc4a8335499c3a0c7ae8dbb9dfc)
 # Day 9
 Today , I started learning with help of youtubr live course of react
+# Day 10
+Today , I attened the b day party of shardeum and did coding at metro station Ashok Nagar
