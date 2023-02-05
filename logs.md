@@ -23,3 +23,5 @@ Today , I attened the b day party of shardeum and did coding at metro station As
 Continue my practising [React](https://github.com/Anshojha/React_Js/commit/a6a769a83dc40e87f1678c39712f5a0c7afa381b) with the help of this [channel](https://www.youtube.com/watch?v=bmpI252DmiI&t=559s) 
 # Day 12 
 Today , I didn't do much coding but to make the streak I am pushing the requet
+# Day 13
+Today , I learned about [fetch API](https://github.com/Anshojha/JavaScript/commit/25b1f2099c0c56073b16f7c796a901d3d77f8fd5) and also I practised [React](https://github.com/Anshojha/React_Js/commit/e5955bc43e3c271e17f36d563f8dc33947ef59ad)
