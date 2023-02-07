@@ -27,3 +27,5 @@ Today , I didn't do much coding but to make the streak I am pushing the requet
 Today , I learned about [fetch API](https://github.com/Anshojha/JavaScript/commit/25b1f2099c0c56073b16f7c796a901d3d77f8fd5) and also I practised [React](https://github.com/Anshojha/React_Js/commit/e5955bc43e3c271e17f36d563f8dc33947ef59ad)
 # Day 14
 Today , I added the [navBar](https://github.com/Anshojha/React_Js/commit/14385f75ca3f7af3f0bbe21c8e09557901b2130a) to my react webapp
+# Day 15 
+ Practised [react](https://github.com/Anshojha/React_Js/commit/9f2f761a9d0ba9c1e5a3b2c682e47642fdcf89ff)
