@@ -29,3 +29,5 @@ Today , I learned about [fetch API](https://github.com/Anshojha/JavaScript/commi
 Today , I added the [navBar](https://github.com/Anshojha/React_Js/commit/14385f75ca3f7af3f0bbe21c8e09557901b2130a) to my react webapp
 # Day 15 
  Practised [react](https://github.com/Anshojha/React_Js/commit/9f2f761a9d0ba9c1e5a3b2c682e47642fdcf89ff)
+# Day 16
+Again , I learnd about props and how to use the components of [React](https://github.com/Anshojha/React_Js/commit/68fe9ecbfa710447ee810142cd057c575e7996a9)
