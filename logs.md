@@ -31,5 +31,8 @@ Today , I added the [navBar](https://github.com/Anshojha/React_Js/commit/14385f7
  Practised [react](https://github.com/Anshojha/React_Js/commit/9f2f761a9d0ba9c1e5a3b2c682e47642fdcf89ff)
 # Day 16
 Again , I learnd about props and how to use the components of [React](https://github.com/Anshojha/React_Js/commit/68fe9ecbfa710447ee810142cd057c575e7996a9)
-# Day 17 )
+# Day 17 
 Today , I added buttons to the [textutils](https://github.com/Anshojha/React_Js/commit/be5f5118f9c95d39b47b14842e199b6496b58bf9) 
+# Day 18
+Didn't code for more just added a Accordian from the bootstrep in [react](https://github.com/Anshojha/React_Js/commit/9affb81035b7848899e5bcc9904d534db0f04709)
+
