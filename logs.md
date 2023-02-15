@@ -42,3 +42,5 @@ Today , I added button to Enable daark mode using UseStatr in [React](https://gi
 Today , I started cloning the amazone web app so that I can Get to know about weather I am learning in right direction or not
 # [Day 22](https://github.com/Anshojha/React_Js/commit/1fc9618ec0572880838d3fd3bd7c5c1c53c0a076)
 Today , I recap my basics of js and added style to the NavBar [Amazone-Clone](https://github.com/Anshojha/React_Js/tree/main/amazone-clone)
+# [Day 23](https://github.com/Anshojha/React_Js/commit/75210842feef4e39584c097a477601b908c34f96)
+Today , I practised the React
