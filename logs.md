@@ -44,3 +44,5 @@ Today , I started cloning the amazone web app so that I can Get to know about we
 Today , I recap my basics of js and added style to the NavBar [Amazone-Clone](https://github.com/Anshojha/React_Js/tree/main/amazone-clone)
 # [Day 23](https://github.com/Anshojha/React_Js/commit/75210842feef4e39584c097a477601b908c34f96)
 Today , I practised the React
+# [Day 24](https://github.com/Anshojha/React_Js/commit/eec0177a750ad4b47cba8bf9c8c95436e4228b83) 
+Today I completed the firt page of the [amazone-clone](https://github.com/Anshojha/React_Js/tree/main/amazone-clone)
