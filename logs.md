@@ -47,4 +47,5 @@ Today , I practised the React
 # [Day 24](https://github.com/Anshojha/React_Js/commit/eec0177a750ad4b47cba8bf9c8c95436e4228b83) 
 Today I completed the firt page of the [amazone-clone](https://github.com/Anshojha/React_Js/tree/main/amazone-clone)
 # [Day 25](https://github.com/Anshojha/React_Js/commit/0ff2ffd01f3e1525c42782635dc16cb431f3a761) 
-
+# [Day 26](https://github.com/Anshojha/React_Js/commit/40554d48d8b62be3851e8bf1a129747155c4bbe3)
+today I practised react started learrning about rendering
