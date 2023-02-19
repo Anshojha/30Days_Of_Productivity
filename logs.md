@@ -49,3 +49,5 @@ Today I completed the firt page of the [amazone-clone](https://github.com/Anshoj
 # [Day 25](https://github.com/Anshojha/React_Js/commit/0ff2ffd01f3e1525c42782635dc16cb431f3a761) 
 # [Day 26](https://github.com/Anshojha/React_Js/commit/40554d48d8b62be3851e8bf1a129747155c4bbe3)
 today I practised react started learrning about rendering
+# [Day 27](https://github.com/Anshojha/React_Js/commit/9c45fe665e0b2a2b497009b617189df7e619dc8c)
+Today , Learnt about rendering page between components 
