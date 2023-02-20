@@ -52,3 +52,5 @@ Today I completed the firt page of the [amazone-clone](https://github.com/Anshoj
 today I practised react started learrning about rendering
 # [Day 27](https://github.com/Anshojha/React_Js/commit/9c45fe665e0b2a2b497009b617189df7e619dc8c)
 Today , Learnt about rendering page between components 
+# [Day 28](https://github.com/Anshojha/React_Js/commit/56614bf041067e55766aa63cfbafd30dbb052a75)
+Today I use the context API to add abd remove the item from the basket
