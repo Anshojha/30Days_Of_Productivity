@@ -56,3 +56,5 @@ Today , Learnt about rendering page between components
 Today I use the context API to add abd remove the item from the basket
 # Day 29
 Today I learned to [deploy](https://github.com/Anshojha/TextUtils) the website using github manually and did my the [productivity](https://github.com/Anshojha/React_Js/commit/1e902ff06776324ef7df8501c086c2cb6482bf46) challenge
+# Day 30 
+Today is the last day of my productivity challenge and today i practised [react](https://github.com/Anshojha/React_Js/commit/25faa3cf2aef32133f7bddf9342d1cbc95ecade2) with the help of code with harry
